@@ -49,7 +49,7 @@ Network Topology Setup in Cisco Packet Tracer:
 
 Demo & Testing:
 Want to see it in action?
-Demo Video: “Tech 170 - Tuesday Smart Home.mp4” (available upon GitHub repo)
+Demo Video: “Tech 170 - Tuesday Smart Home.mp4”: https://drive.google.com/file/d/18YhjcpNzGcdHRO92kWCnThdljTjsxjo2/view?usp=drive_link
 
 Learning Outcomes:
 Designed and configured enterprise-style home network in a virtual environment.
